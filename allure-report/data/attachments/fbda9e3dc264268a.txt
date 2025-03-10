@@ -1,0 +1,1 @@
+[31m[1mERROR   [0m binance.websocket.websocket_client:binance_socket_manager.py:131 Error from callback <bound method WebSocketClient.message_handler of <src.websocket_client.WebSocketClient object at 0x102d25e80>>: WebSocketClient.message_handler() takes 1 positional argument but 3 were given
