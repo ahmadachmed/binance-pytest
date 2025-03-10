@@ -1,0 +1,9 @@
+api_key: "sGXa0CJKPwMoTsejaTHpxaS6EuzjyGqxdB6xcpRzWX8P6Hko4tyAqlw2S1v7gZXJ"
+api_secret: "NS1driU8Ry8xpU78l7oJ8WBBvgLTfaa3gmyRjK4v9JvqsiBes9Hk2t4G2wljuovw"
+
+testnet_base_url: "https://testnet.binance.vision" 
+mainnet_base_url: "https://api.binancce.com"
+testnet: true
+
+websocket_base_url: "wss://stream.binance.com:9443/ws"
+testnet_websocket_base_url: "wss://stream.testnet.binance.vision:9443/ws"

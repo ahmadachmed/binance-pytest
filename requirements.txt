@@ -1,0 +1,9 @@
+pytest
+pytest-html
+pytest-xdist
+requests==2.31.0
+PyYAML
+websocket-client
+setuptools
+binance-connector
+allure-pytest
